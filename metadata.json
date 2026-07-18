@@ -1,0 +1,6 @@
+{
+  "name": "Nutrition Assistant",
+  "description": "A complete full-stack Nutrition Assistant App featuring meal and water tracking, BMI calculations, nutrition recommendations, weight goal management, and curated recipes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
