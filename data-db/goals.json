@@ -1,0 +1,14 @@
+[
+  {
+    "userId": "qbc65ryd5oy1ngoxm02r",
+    "type": "Maintain Weight",
+    "currentWeight": 70,
+    "targetWeight": 70,
+    "dailyCalorieTarget": 2000,
+    "dailyProteinTarget": 130,
+    "dailyCarbsTarget": 220,
+    "dailyFatTarget": 65,
+    "_id": "zpeaxr8te69qzu47dihmg",
+    "createdAt": "2026-07-19T15:50:31.363Z"
+  }
+]
